@@ -2,7 +2,8 @@
 이름 : Chase The Goblin <br>
 장르 : `2d` `action` `simulation` <br>
 기간 : 2025. 1. 26-2. 2. (8일)  
-인원 : 1명 
+인원 : 1명 <br>
+개발 : 유니티, C#
 
 게임 플레이 링크 : [https://ttobing3.itch.io/surgeon-tom](https://ttobing3.itch.io/chase-the-goblin)
 
